@@ -27,7 +27,6 @@ body {
 @media (max-width: 450px) {
     .box {
         width: 350px;
-        background-color: #23242a;
     }
 }
 .box::before {
@@ -61,7 +60,7 @@ body {
 form {
     position: absolute;
     inset: 4px;
-    background-color: #222;
+    background-color: #23242a;
     text-align: center;
     color: #fff;
 }
